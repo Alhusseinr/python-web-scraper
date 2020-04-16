@@ -40,7 +40,7 @@ from bs4 import BeautifulSoup
 import csv
 ```
 
-We are importing our `requests` module so we can make out HTTPS and fetch our desired link, `BeautifulSoup` will allow us to pull data from the page that we are fetching, and lastly the CSV module will allow us to create a csv file and export all the data we want.
+We are importing our `requests` module so we can make our HTTPS calls and fetch our desired link, `BeautifulSoup` will allow us to pull data from the page that we are fetching, and lastly the CSV module will allow us to create a csv file and export all the data we want.
 
 
 
