@@ -30,4 +30,14 @@ This should install your dependencies and now we are ready to start
 
 In the root of your project create a file with `.py` extension 
 
+Open the project with your preferred IDE and open the file. On the of your file we are going to import our modules. It would look like this.
+
+`
+import requests
+from bs4 import BeautifulSoup
+import csv
+`
+
+
+
 
