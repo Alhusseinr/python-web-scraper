@@ -34,7 +34,9 @@ Open the project with your preferred IDE and open the file. On the of your file 
 
 `
 import requests
+
 from bs4 import BeautifulSoup
+
 import csv
 `
 
