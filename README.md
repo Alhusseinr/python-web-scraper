@@ -8,4 +8,8 @@ That is right we are going to make it nice and simple, so we are starting with t
 
 # 1. Creating the project root folder
 
-Go ahead and navigate to where you want your project to be located for me I have it under ``` t ```
+Go ahead and navigate to where you want your project to be located for me I have it under
+
+`/Users/<USER>/Documents/Git/<NAME OF PROJECT ROOF FOLDER>` I named it python-scraper-github
+
+
