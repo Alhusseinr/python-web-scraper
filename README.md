@@ -12,4 +12,22 @@ Go ahead and navigate to where you want your project to be located for me I have
 
 `/Users/<USER>/Documents/Git/<NAME OF PROJECT ROOF FOLDER>` I named it python-web-scraper
 
+Go to the folder and create virtual enviroment 
+
+`pyhton3 -m venv env`
+
+Wait for it to create the env folder in the root folder of your project.
+
+# 2. Installing the needed dependencies
+
+Open terminal and run the following:
+
+`pip install requests beautifulsoup4`
+
+This should install your dependencies and now we are ready to start
+
+# 3. Python Code
+
+In the root of your project create a file with `.py` extension 
+
 
